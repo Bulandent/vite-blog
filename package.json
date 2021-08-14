@@ -1,4 +1,5 @@
 {
+  "name": "vite-blog",
   "private": true,
   "scripts": {
     "dev": "vite --port 3333 --open",
